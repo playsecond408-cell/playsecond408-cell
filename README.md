@@ -1,11 +1,12 @@
 # ⚡ Mujtaba Ajaz Bhat
 
+
 **Software Engineering Undergrad | Defense Tech & Simulation Enthusiast**
 > *Coding since 5th grade (10 years and counting)*
 
 I'm an engineering student currently studying at the **Lords Institute of Engineering and Technology**. I have a strong foundation in building software and a deep interest in the defense technology sector, particularly in aerial systems, simulations, and pushing hardware to its limits.
 ## done before you knew it
-
+**full time unpaid mazdoor**
 
 ### 🔭 Current Focus
 - 🎓 **Studying:** B.E.
