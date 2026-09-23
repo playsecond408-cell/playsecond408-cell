@@ -4,9 +4,11 @@
 > *Coding since 5th grade (10 years and counting)*
 
 I'm an engineering student currently studying at the **Lords Institute of Engineering and Technology**. I have a strong foundation in building software and a deep interest in the defense technology sector, particularly in aerial systems, simulations, and pushing hardware to its limits.
+## done before you knew it
+
 
 ### 🔭 Current Focus
-- 🎓 **Studying:** B.E./B.Tech (First Year)
+- 🎓 **Studying:** B.E.
 - 🚁 **Exploring:** Defense tech applications, ionized drone (ionocraft) simulations, and inverse kinematics.
 - 🐧 **Tinkering:** Arch Linux, KDE Plasma customization, and brutalist/retro-futurist design aesthetics.
 
@@ -22,6 +24,3 @@ I'm an engineering student currently studying at the **Lords Institute of Engine
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=playsecond408-cell&layout=compact&theme=tokyonight)
 
-### 📫 Let's Connect
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
